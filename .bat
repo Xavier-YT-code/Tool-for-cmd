@@ -2,7 +2,7 @@
 colour A
 title xavier`s tools
 set /p pass="Enter password"
-if "%pass% NEQ "death" exit
+if "%pass% NEQ "hacker" exit
 :menu
 echo.
 echo **************
